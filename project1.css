@@ -1,0 +1,155 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url('fitt.png');
+    background-repeat: no-repeat;
+   
+    background-size: 100% 100%;
+    
+    
+    
+    
+    
+
+}
+.mid{
+    
+    border-radius: 7px;
+    border: 2px solid rgb(180, 175, 175);
+    display: block;
+    width: 30%;
+    margin: 8px auto;
+
+
+}
+.navber li{
+
+    display: inline-block;
+    position: absulate;
+    right: 1px;
+    top: 22px;
+    margin: 2px 2px;
+    list-style: none;
+    
+}
+.navber li a{
+    text-decoration: none;
+    margin: auto;
+    display: inline-block;
+    font-size: 20px;
+    margin: 2px 3px;
+    color: white;
+    font-family: 'Baloo Bhai', cursive;
+}
+.navber li a:hover,.navber li a:active{
+    background-color: rgb(163, 156, 156);
+    text-decoration: underline;
+}
+.navber ul{
+    overflow: auto;
+    
+    
+}
+.left{
+    position: absolute;
+    left: 1px;
+    top: 1px;
+    display: inline-block;
+    
+
+}
+.left img {
+    width: 150px;
+    filter:invert(100%) ;
+}
+.left div{
+        text-align: center;
+        line-height: 0px;
+        font-size: 15px;
+        color: cornsilk;
+       
+}
+    
+    
+    
+.right{
+   
+    position: absolute;
+    right: 40px;
+    top: 15px;
+    display: inline-block;
+    
+
+}
+.maincontainer{
+    padding: 5px;
+    margin: 0px;
+
+}
+.forms{
+    padding: 1px auto;
+}
+.button-design{
+    
+    display: block;
+    width: 29%;
+    padding: 5px 140px;
+}
+
+.forms input{
+        font-family: 'Baloo Bhai', cursive;
+        text-align: center;
+        width: 370px;
+        padding: 1px;
+        border: 2px solid white;
+        margin: 5px auto;
+        font-size: 15px;
+        border-radius: 5px;
+        display: block;
+       
+}
+.container{
+    font-family: 'Baloo Bhai', cursive;
+        border: 2px solid white;
+        display: block;
+        margin: 100px 50px;
+        padding: 30px;
+        width: 27%;
+        border-radius: 28px;
+}
+
+.header{
+    height: 50px;
+    
+}
+.btn{
+    padding: 5px 10px;
+    text-align: center;
+    border-radius: 8px;
+    font-family: 'Baloo Bhai', cursive;
+}
+.btn:hover{
+     background-color: rgb(133, 127, 127);
+     border-radius: 5px;
+}
+h4{
+    font-family: 'Baloo Bhai', cursive;
+    border: 2px solid white;
+    padding: 1px 2px;
+    display: inline-block;
+    border-radius: 5px;
+    color: rgb(238, 232, 238);
+}
+p{
+    font-family: 'Baloo Bhai', cursive;
+    padding: 1px 2px;
+    display: inline-block;
+    border-radius: 5px;
+    color: rgb(238, 232, 238);
+}
+.signup{
+    padding: 0px 150px;
+}
+h4:hover{
+    background-color: rgb(138, 143, 143);
+}
